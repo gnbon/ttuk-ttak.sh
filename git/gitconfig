@@ -1,0 +1,7 @@
+[user]
+	name = gnbon
+	email = borngunk7061@naver.com
+[core]
+	editor = vim
+[alias]
+	l = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr)%C(bold blue)<%an>%Creset' --abbrev-commit
